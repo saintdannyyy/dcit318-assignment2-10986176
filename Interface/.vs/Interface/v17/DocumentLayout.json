@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olive\\Desktop\\dcit318-assignment2-10966166\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E813F0-18A5-4558-809D-81009CC3B74A}|Interface\\Interface.csproj|c:\\users\\olive\\desktop\\dcit318-assignment2-10966166\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E813F0-18A5-4558-809D-81009CC3B74A}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\Desktop\\dcit318-assignment2-10966166\\Interface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\olive\\Desktop\\dcit318-assignment2-10966166\\Interface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:55:44.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

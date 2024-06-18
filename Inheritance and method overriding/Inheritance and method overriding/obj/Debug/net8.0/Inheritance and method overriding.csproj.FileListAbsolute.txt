@@ -1,0 +1,14 @@
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.exe
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.deps.json
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.runtimeconfig.json
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.dll
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\bin\Debug\net8.0\Inheritance and method overriding.pdb
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.AssemblyInfo.cs
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.dll
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\refint\Inheritance and method overriding.dll
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.pdb
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\Inheritance and method overriding.genruntimeconfig.cache
+C:\Users\olive\Desktop\assignment\Inheritance and method overriding\Inheritance and method overriding\obj\Debug\net8.0\ref\Inheritance and method overriding.dll
